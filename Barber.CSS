@@ -195,7 +195,7 @@ footer p {
     margin-bottom: 10px;
     font-family: sans-serif;
 }
-@media screen and (max-width: 740px) {
+@media screen and (max-width: 750px) {
     .header {
         display: flex;
         flex-direction: column;
